@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Optimist
+comment1.params=sub
+comment1.target=Optimist(ConcreteSubject)
+comment2.params=
+comment2.target=void\ update()
+numComments=3
